@@ -54,5 +54,17 @@ The Rover.py class implements the solution for the rover. The solution also cont
 a little visualisation module based on Plotly and Dash to plot the movement of the rover
 in real time for a specific set of instructions.
 
+### REQUIREMENTS AND EXECUTION:
+You'll need to install Plotly and Dash for Python.
+Use the following command to automatically install the needed libraries :
+
+    pip -r requirements.txt
+
+Now, you only need to execute the main.py class and access the following address on 
+your favorite browser :
+
+    http://127.0.0.1:8050/
+
+
 ### PREVIEW :
 ![](rover.gif)
