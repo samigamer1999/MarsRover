@@ -58,7 +58,7 @@ in real time for a specific set of instructions.
 You'll need to install Plotly and Dash for Python.
 Use the following command to automatically install the needed libraries :
 
-    pip -r requirements.txt
+    pip install -r requirements.txt
 
 Now, you only need to execute the main.py class and access the following address on 
 your favorite browser :
